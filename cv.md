@@ -55,4 +55,4 @@ Luhansk, Ukraine**
 ## Hobbies
 * French language 
 * ski 
-* JS
+* JS/FE
